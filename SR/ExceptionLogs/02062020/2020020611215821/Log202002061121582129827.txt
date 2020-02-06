@@ -1,0 +1,1 @@
+{"Username":"8125156531","Password":"73F871","Role":null,"FTYPE":1,"REQUESTIP":null,"Browser":null,"SOURCE":"WEB","Confor":null,"Conforid":null,"Flat":null,"Flong":null,"Fgeoaddres":null,"Version":null}ExceptionwebsocketObject reference not set to an instance of an object.

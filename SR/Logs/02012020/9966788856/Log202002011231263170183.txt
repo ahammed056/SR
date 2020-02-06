@@ -1,0 +1,1 @@
+{"Username":"9966788856","Password":"123456","Role":null,"FTYPE":0,"REQUESTIP":"","Browser":"","SOURCE":"WEB","Confor":"91285E","Conforid":"neO5pA7U49+Z+codqAwtyaSUaZHEkyBkuTJE3vwKoAY=","Flat":null,"Flong":null,"Fgeoaddres":null,"Version":null}
